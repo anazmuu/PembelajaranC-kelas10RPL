@@ -3,12 +3,15 @@
 
 int main() {
     // Write C code here
+    // variable persegi panjang
     int panjang;
     int lebar;
+    int hasil_persegi;
+    //variable segitiga
     double rumus = 0.5;
     int alas;
     int tinggi;
-    int hasil_persegi;
+    
     double hasil_segitiga;
     int inputan;
     
